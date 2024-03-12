@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="ja">
+  <title>長期（地震火山）</title>
+  <subtitle>JMAXML publishing feed</subtitle>
+  <updated>2024-03-12T17:01:12+09:00</updated>
+  <id>https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml#long_1710230472</id>
+  <link rel="related" href="https://www.jma.go.jp/"/>
+  <link rel="self" href="https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml"/>
+  <link rel="hub" href="http://alert-hub.appspot.com/"/>
+  <rights type="html"><![CDATA[
+<a href="https://www.jma.go.jp/jma/kishou/info/coment.html">利用規約</a>,
+<a href="https://www.jma.go.jp/jma/en/copyright.html">Terms of Use</a>
+]]></rights>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>http://127.0.0.1:5500/data/20240312051233_0_VXSE53_010000.xml</id>
+    <updated>2024-03-12T05:12:33Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="http://127.0.0.1:5500/data/20240312051233_0_VXSE53_010000.xml"/>
+    <content type="text">【震源・震度情報】１２日１４時１０分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>http://127.0.0.1:5500/data/20240312050049_0_VFVO53_010000.xml</id>
+    <updated>2024-03-12T05:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="http://127.0.0.1:5500/data/20240312050049_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１２日２１時から２４時までは火口から南東方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>http://127.0.0.1:5500/data/20240312033044_0_VXSE53_010000.xml</id>
+    <updated>2024-03-12T03:30:44Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="http://127.0.0.1:5500/data/20240312033044_0_VXSE53_010000.xml"/>
+    <content type="text">【震源・震度情報】１２日１２時２７分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源に関する情報</title>
+    <id>http://127.0.0.1:5500/data/20240312032952_0_VXSE52_010000.xml</id>
+    <updated>2024-03-12T03:29:52Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="http://127.0.0.1:5500/data/20240312032952_0_VXSE52_010000.xml"/>
+    <content type="text">【震源に関する情報】きょう１２日１２時２７分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>http://127.0.0.1:5500/data/20240312032903_0_VXSE51_010000.xml</id>
+    <updated>2024-03-12T03:29:02Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="http://127.0.0.1:5500/data/20240312032903_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】１２日１２時２７分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>http://127.0.0.1:5500/data/20240311075619_0_VXSE53_010000.xml</id>
+    <updated>2024-03-11T07:56:19Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="http://127.0.0.1:5500/data/20240311075619_0_VXSE53_010000.xml"/>
+    <content type="text">【震源・震度情報】１１日１６時５３分ころ、地震がありました。</content>
+  </entry>
+</feed>

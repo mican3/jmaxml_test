@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="ja">
+  <title>長期（地震火山）</title>
+  <subtitle>JMAXML publishing feed</subtitle>
+  <updated>2024-03-12T17:01:12+09:00</updated>
+  <id>https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml#long_1710230472</id>
+  <link rel="related" href="https://www.jma.go.jp/"/>
+  <link rel="self" href="https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml"/>
+  <link rel="hub" href="http://alert-hub.appspot.com/"/>
+  <rights type="html"><![CDATA[
+<a href="https://www.jma.go.jp/jma/kishou/info/coment.html">利用規約</a>,
+<a href="https://www.jma.go.jp/jma/en/copyright.html">Terms of Use</a>
+]]></rights>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>http://127.0.0.1:5500/tsunami_data/32-39_11_02_120615_VTSE41.xml</id>
+    <updated>2011-03-11T05:49:59Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="http://127.0.0.1:5500/tsunami_data/32-39_11_02_120615_VTSE41.xml"/>
+    <content type="text">【震源・震度情報】１２日１４時１０分ころ、地震がありました。</content>
+  </entry>
+</feed>
