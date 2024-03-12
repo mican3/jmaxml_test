@@ -21,4 +21,24 @@
     <link type="application/xml" href="http://127.0.0.1:5500/tsunami_data/32-39_11_02_120615_VTSE41.xml"/>
     <content type="text">【震源・震度情報】１２日１４時１０分ころ、地震がありました。</content>
   </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>http://127.0.0.1:5500/tsunami_data/32-39_11_06_120615_VTSE41.xml</id>
+    <updated>2011-03-11T05:53:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="http://127.0.0.1:5500/tsunami_data/32-39_11_06_120615_VTSE41.xml"/>
+    <content type="text">【震源・震度情報】１２日１４時１０分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>http://127.0.0.1:5500/tsunami_data/32-39_11_09_120615_VTSE41.xml</id>
+    <updated>2011-03-11T06:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="http://127.0.0.1:5500/tsunami_data/32-39_11_09_120615_VTSE41.xml"/>
+    <content type="text">【震源・震度情報】１２日１４時１０分ころ、地震がありました。</content>
+  </entry>
 </feed>
