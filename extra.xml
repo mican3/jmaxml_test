@@ -106,4 +106,14 @@
     <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vpww54/15_11_03_150916_VPWW54.xml"/>
     <content type="text">【富山県気象警報・注意報】【特別警報（大雪）】東部では、大雪、暴風雪、高波に警戒してください。</content>
   </entry>
+  <entry>
+    <title>熱中症警戒アラート</title>
+    <id>https://mican3.github.io/jmaxml_test/vpft50/57_03_01_210423_VPFT50.xml</id>
+    <updated>2020-05-14T20:00:00Z</updated>
+    <author>
+      <name>環境省 気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vpft50/57_03_01_210423_VPFT50.xml"/>
+    <content type="text">【東京都熱中症警戒アラート】　</content>
+  </entry>
 </feed>
