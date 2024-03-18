@@ -17,15 +17,151 @@
 <a href="https://www.jma.go.jp/jma/en/copyright.html">Terms of Use</a>
 ]]></rights>
   <entry>
-    <title>噴火に関する火山観測報</title>
-    <id>https://www.data.jma.go.jp/developer/xml/data/20240318110509_0_VFVO52_400000.xml</id>
-    <updated>2024-03-18T11:05:08Z</updated>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://mican3.github.io/jmaxml_test/vtse41/38-39_03_01_210805_VTSE41.xml</id>
+    <updated>2021-08-05T03:56:58Z</updated>
     <author>
-      <name>福岡管区気象台　鹿児島地方気象台</name>
+      <name>気象庁</name>
     </author>
-    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240318110509_0_VFVO52_400000.xml"/>
-    <content type="text">【火山名　桜島　噴火に関する火山観測報】火　　山：桜島
-日　　時：2024年03月18日19時52分（181052UTC） 第2報
-現　　象：爆発</content>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vtse41/38-39_03_01_210805_VTSE41.xml"/>
+    <content type="text">【津波注意報・津波予報】津波注意報を取り消します。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_12_02_191025_VTSE41.xml</id>
+    <updated>2016-08-31T22:13:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vtse41/32-39_12_02_191025_VTSE41.xml"/>
+    <content type="text">【大津波警報・津波警報・津波注意報】＊＊＊これは訓練です＊＊＊
+  東日本大震災クラスの津波が来襲します。
+  大津波警報・津波警報を発表しました。
+  ただちに避難してください。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_13_02_191025_VTSE41.xml</id>
+    <updated>2018-12-04T09:03:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vtse41/32-39_13_02_191025_VTSE41.xml"/>
+    <content type="text">【津波注意報・津波予報】＊＊＊これは訓練です＊＊＊
+  津波注意報を発表しました。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_11_13_120615_VTSE41.xml</id>
+    <updated>2011-03-13T08:58:18Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vtse41/32-39_11_13_120615_VTSE41.xml"/>
+    <content type="text">【津波予報】津波注意報を解除しました。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_11_09_120615_VTSE41.xml</id>
+    <updated>2011-03-11T06:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vtse41/32-39_11_09_120615_VTSE41.xml"/>
+    <content type="text">【大津波警報・津波警報・津波注意報・津波予報】津波到達予想時刻・予想される津波の高さに関する情報を更新しました。
+  ただちに避難してください。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_12_07_191025_VTSE41.xml</id>
+    <updated>2016-08-31T22:26:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vtse41/32-39_12_07_191025_VTSE41.xml"/>
+    <content type="text">【大津波警報・津波警報・津波注意報】＊＊＊これは訓練です＊＊＊
+  東日本大震災クラスの津波が来襲します。
+  津波到達予想時刻・予想される津波の高さに関する情報を更新しました。
+  ただちに避難してください。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://mican3.github.io/jmaxml_test/vtse41/38-39_02_04_191025_VTSE41.xml</id>
+    <updated>2015-11-13T22:20:01Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vtse41/38-39_02_04_191025_VTSE41.xml"/>
+    <content type="text">【津波予報】津波注意報を解除しました。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_11_02_120615_VTSE41.xml</id>
+    <updated>2011-03-11T05:49:59Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vtse41/32-39_11_02_120615_VTSE41.xml"/>
+    <content type="text">【大津波警報・津波警報・津波注意報・津波予報】東日本大震災クラスの津波が来襲します。
+  大津波警報・津波警報を発表しました。
+  ただちに避難してください。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_11_11_120615_VTSE41.xml</id>
+    <updated>2011-03-11T06:12:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vtse41/32-39_11_11_120615_VTSE41.xml"/>
+    <content type="text">【大津波警報・津波警報・津波注意報・津波予報】東日本大震災クラスの津波が来襲します。
+  沖合で高い津波を観測したため大津波警報・津波警報を切り替えました。
+  津波到達予想時刻・予想される津波の高さに関する情報を更新しました。
+  ただちに避難してください。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_11_06_120615_VTSE41.xml</id>
+    <updated>2011-03-11T05:53:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vtse41/32-39_11_06_120615_VTSE41.xml"/>
+    <content type="text">【大津波警報・津波警報・津波注意報・津波予報】東日本大震災クラスの津波が来襲します。
+  沖合で高い津波を観測したため大津波警報・津波警報を切り替えました。
+  津波到達予想時刻・予想される津波の高さに関する情報を更新しました。
+  ただちに避難してください。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://mican3.github.io/jmaxml_test/vtse41/38-39_02_01_191025_VTSE41.xml</id>
+    <updated>2015-11-13T20:56:28Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vtse41/38-39_02_01_191025_VTSE41.xml"/>
+    <content type="text">【津波注意報・津波予報】津波注意報を発表しました。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_13_07_191025_VTSE41.xml</id>
+    <updated>2018-12-04T10:30:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vtse41/32-39_13_07_191025_VTSE41.xml"/>
+    <content type="text">【津波予報】＊＊＊これは訓練です＊＊＊
+  津波注意報を解除しました。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_12_13_191025_VTSE41.xml</id>
+    <updated>2016-09-01T00:55:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vtse41/32-39_12_13_191025_VTSE41.xml"/>
+    <content type="text">【津波予報】＊＊＊これは訓練です＊＊＊
+  大津波警報・津波警報を解除しました。</content>
   </entry>
 </feed>

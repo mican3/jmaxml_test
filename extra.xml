@@ -114,6 +114,6 @@
       <name>環境省 気象庁</name>
     </author>
     <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vpft50/57_03_01_210423_VPFT50.xml"/>
-    <content type="text">【東京都熱中症警戒アラート】　</content>
+    <content type="text">【東京都熱中症警戒アラート】</content>
   </entry>
 </feed>
