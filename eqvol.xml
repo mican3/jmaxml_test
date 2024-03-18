@@ -164,4 +164,224 @@
     <content type="text">【津波予報】＊＊＊これは訓練です＊＊＊
   大津波警報・津波警報を解除しました。</content>
   </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_07_06_100915_VXSE53.xml</id>
+    <updated>2009-08-10T20:13:14Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-35_07_06_100915_VXSE53.xml"/>
+    <content type="text">【震源・震度情報】　１１日０５時０７分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_08_07_100915_VXSE53.xml</id>
+    <updated>2010-07-04T22:02:46Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-35_08_07_100915_VXSE53.xml"/>
+    <content type="text">【震源・震度情報】　　５日０６時５６分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_08_08_100915_VXSE53.xml</id>
+    <updated>2010-07-04T22:08:03Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-35_08_08_100915_VXSE53.xml"/>
+    <content type="text">【震源・震度情報】　　５日０６時５６分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_07_07_100915_VXSE53.xml</id>
+    <updated>2009-08-10T20:21:07Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-35_07_07_100915_VXSE53.xml"/>
+    <content type="text">【震源・震度情報】　１１日０５時０７分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_06_100831_VXSE53.xml</id>
+    <updated>2010-02-27T19:41:56Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_06_100831_VXSE53.xml"/>
+    <content type="text">【遠地地震に関する情報】　２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_01_03_100806_VXSE53.xml</id>
+    <updated>2009-10-01T04:50:01Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-35_01_03_100806_VXSE53.xml"/>
+    <content type="text">【震源・震度情報】　　１日１３時４５分ころ、地震がありました。各地の震度をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_11_05_120615_VXSE53.xml</id>
+    <updated>2011-03-11T05:54:58Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-39_11_05_120615_VXSE53.xml"/>
+    <content type="text">【震源・震度情報】　１１日１４時４６分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_02_100831_VXSE53.xml</id>
+    <updated>2010-02-27T08:32:19Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_02_100831_VXSE53.xml"/>
+    <content type="text">【遠地地震に関する情報】　２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_05_100831_VXSE53.xml</id>
+    <updated>2010-02-27T15:08:07Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_05_100831_VXSE53.xml"/>
+    <content type="text">【遠地地震に関する情報】　２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_04_04_100831_VXSE53.xml</id>
+    <updated>2010-01-25T07:19:20Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-35_04_04_100831_VXSE53.xml"/>
+    <content type="text">【震源・震度情報】　２５日１６時１５分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_04_100831_VXSE53.xml</id>
+    <updated>2010-02-27T12:00:13Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_04_100831_VXSE53.xml"/>
+    <content type="text">【遠地地震に関する情報】　２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_08_100831_VXSE53.xml</id>
+    <updated>2010-02-27T22:49:53Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_08_100831_VXSE53.xml"/>
+    <content type="text">【遠地地震に関する情報】　２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_07_100831_VXSE53.xml</id>
+    <updated>2010-02-27T20:46:55Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_07_100831_VXSE53.xml"/>
+    <content type="text">【遠地地震に関する情報】　２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_06_06_100915_VXSE53.xml</id>
+    <updated>2008-06-14T00:06:34Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-35_06_06_100915_VXSE53.xml"/>
+    <content type="text">【震源・震度情報】　震源・震度情報を取り消します。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_06_04_100915_VXSE53.xml</id>
+    <updated>2008-06-13T23:53:02Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-35_06_04_100915_VXSE53.xml"/>
+    <content type="text">【震源・震度情報】　１４日０８時４３分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_06_03_100915_VXSE53.xml</id>
+    <updated>2008-06-13T23:47:47Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-35_06_03_100915_VXSE53.xml"/>
+    <content type="text">【震源・震度情報】　１４日０８時４３分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_04_06_100831_VXSE53.xml</id>
+    <updated>2010-01-25T07:25:18Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-35_04_06_100831_VXSE53.xml"/>
+    <content type="text">【震源・震度情報】　２５日１６時１５分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_01_100831_VXSE53.xml</id>
+    <updated>2010-02-27T07:00:44Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_01_100831_VXSE53.xml"/>
+    <content type="text">【遠地地震に関する情報】　２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_12_100915_VXSE53.xml</id>
+    <updated>2010-02-28T00:50:57Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_12_100915_VXSE53.xml"/>
+    <content type="text">【遠地地震に関する情報】　遠地地震に関する情報を取り消します。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_06_05_100915_VXSE53.xml</id>
+    <updated>2008-06-14T00:01:34Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-35_06_05_100915_VXSE53.xml"/>
+    <content type="text">【震源・震度情報】　１４日０８時４３分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_01_03_100514_VXSE53.xml</id>
+    <updated>2009-11-09T11:15:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-35_01_03_100514_VXSE53.xml"/>
+    <content type="text">【遠地地震に関する情報】　　９日１９時４５分ころ、海外で規模の大きな地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_12_100831_VXSE53.xml</id>
+    <updated>2010-02-28T00:45:57Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_12_100831_VXSE53.xml"/>
+    <content type="text">【遠地地震に関する情報】　２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
+  </entry>
 </feed>
