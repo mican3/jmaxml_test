@@ -9,111 +9,114 @@
   <subtitle>JMAXML publishing feed</subtitle>
   <updated>2024-03-18T22:04:05+09:00</updated>
   <id>https://www.data.jma.go.jp/developer/xml/feed/extra.xml#short_1710767045</id>
-  <link rel="related" href="https://www.jma.go.jp/"/>
-  <link rel="self" href="https://www.data.jma.go.jp/developer/xml/feed/extra.xml"/>
-  <link rel="hub" href="http://alert-hub.appspot.com/"/>
+  <link rel="related" href="https://www.jma.go.jp/" />
+  <link rel="self" href="https://www.data.jma.go.jp/developer/xml/feed/extra.xml" />
+  <link rel="hub" href="http://alert-hub.appspot.com/" />
   <rights type="html"><![CDATA[
 <a href="https://www.jma.go.jp/jma/kishou/info/coment.html">利用規約</a>,
 <a href="https://www.jma.go.jp/jma/en/copyright.html">Terms of Use</a>
 ]]></rights>
   <entry>
     <title>気象警報・注意報（Ｈ２７）</title>
-    <id>https://mican3.github.io/jmaxml_test/vpww54/15_11_01_150916_VPWW54.xml</id>
+    <id>http://127.0.0.1:5500/vpww54/15_11_01_150916_VPWW54.xml</id>
     <updated>2015-06-22T09:00:00Z</updated>
     <author>
       <name>下関地方気象台</name>
     </author>
-    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vpww54/15_11_01_150916_VPWW54.xml"/>
+    <link type="application/xml" href="http://127.0.0.1:5500/vpww54/15_11_01_150916_VPWW54.xml" />
     <content type="text">【山口県気象警報・注意報】山口県では、２３日朝まで高潮に警戒してください。</content>
   </entry>
   <entry>
     <title>気象警報・注意報（Ｈ２７）</title>
-    <id>https://mican3.github.io/jmaxml_test/vpww54/15_15_01_220314_VPWW54.xml</id>
+    <id>http://127.0.0.1:5500/vpww54/15_15_01_220314_VPWW54.xml</id>
     <updated>2021-09-14T04:42:24Z</updated>
     <author>
       <name>徳島地方気象台</name>
     </author>
-    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vpww54/15_15_01_220314_VPWW54.xml"/>
+    <link type="application/xml" href="http://127.0.0.1:5500/vpww54/15_15_01_220314_VPWW54.xml" />
     <content type="text">【徳島県気象警報・注意報】北部では、１４日夜のはじめ頃まで高潮に警戒してください。</content>
   </entry>
   <entry>
     <title>気象警報・注意報（Ｈ２７）</title>
-    <id>https://mican3.github.io/jmaxml_test/vpww54/15_12_01_161130_VPWW54.xml</id>
+    <id>http://127.0.0.1:5500/vpww54/15_12_01_161130_VPWW54.xml</id>
     <updated>2016-02-12T06:44:00Z</updated>
     <author>
       <name>松江地方気象台</name>
     </author>
-    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vpww54/15_12_01_161130_VPWW54.xml"/>
-    <content type="text">【島根県気象警報・注意報】【特別警報（大雨）】浜田地区、大田邑智地区に特別警報を発表しています。土砂災害や低い土地の浸水、河川の増水に最大級の警戒をしてください。</content>
+    <link type="application/xml" href="http://127.0.0.1:5500/vpww54/15_12_01_161130_VPWW54.xml" />
+    <content type="text">
+      【島根県気象警報・注意報】【特別警報（大雨）】浜田地区、大田邑智地区に特別警報を発表しています。土砂災害や低い土地の浸水、河川の増水に最大級の警戒をしてください。</content>
   </entry>
   <entry>
     <title>気象警報・注意報（Ｈ２７）</title>
-    <id>https://mican3.github.io/jmaxml_test/vpww54/15_12_02_161130_VPWW54.xml</id>
+    <id>http://127.0.0.1:5500/vpww54/15_12_02_161130_VPWW54.xml</id>
     <updated>2016-02-12T05:22:09Z</updated>
     <author>
       <name>気象庁予報部</name>
     </author>
-    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vpww54/15_12_02_161130_VPWW54.xml"/>
-    <content type="text">【東京都気象警報・注意報】【特別警報（大雨、暴風、波浪、高潮）】小笠原諸島に特別警報を発表しています。土砂災害や低い土地の浸水、河川の増水、暴風、高波、高潮に最大級の警戒をしてください。</content>
+    <link type="application/xml" href="http://127.0.0.1:5500/vpww54/15_12_02_161130_VPWW54.xml" />
+    <content type="text">
+      【東京都気象警報・注意報】【特別警報（大雨、暴風、波浪、高潮）】小笠原諸島に特別警報を発表しています。土砂災害や低い土地の浸水、河川の増水、暴風、高波、高潮に最大級の警戒をしてください。</content>
   </entry>
   <entry>
     <title>気象警報・注意報（Ｈ２７）</title>
-    <id>https://mican3.github.io/jmaxml_test/vpww54/15_14_01_170216_VPWW54.xml</id>
+    <id>http://127.0.0.1:5500/vpww54/15_14_01_170216_VPWW54.xml</id>
     <updated>2017-01-26T08:20:47Z</updated>
     <author>
       <name>気象庁予報部</name>
     </author>
-    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vpww54/15_14_01_170216_VPWW54.xml"/>
+    <link type="application/xml" href="http://127.0.0.1:5500/vpww54/15_14_01_170216_VPWW54.xml" />
     <content type="text">【東京都気象警報・注意報】【特別警報（大雨）】２３区西部、多摩西部に特別警報を発表しています。土砂災害や河川の増水に最大級の警戒をしてください。</content>
   </entry>
   <entry>
     <title>気象警報・注意報（Ｈ２７）</title>
-    <id>https://mican3.github.io/jmaxml_test/vpww54/15_11_02_150916_VPWW54.xml</id>
+    <id>http://127.0.0.1:5500/vpww54/15_11_02_150916_VPWW54.xml</id>
     <updated>2015-07-08T17:18:00Z</updated>
     <author>
       <name>富山地方気象台</name>
     </author>
-    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vpww54/15_11_02_150916_VPWW54.xml"/>
+    <link type="application/xml" href="http://127.0.0.1:5500/vpww54/15_11_02_150916_VPWW54.xml" />
     <content type="text">【富山県気象警報・注意報】富山県では、土砂災害や低い土地の浸水、河川の増水に警戒してください。</content>
   </entry>
   <entry>
     <title>気象警報・注意報（Ｈ２７）</title>
-    <id>https://mican3.github.io/jmaxml_test/vpww54/15_13_01_161226_VPWW54.xml</id>
+    <id>http://127.0.0.1:5500/vpww54/15_13_01_161226_VPWW54.xml</id>
     <updated>2016-12-13T11:47:23Z</updated>
     <author>
       <name>気象庁予報部</name>
     </author>
-    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vpww54/15_13_01_161226_VPWW54.xml"/>
-    <content type="text">【東京都気象警報・注意報】【特別警報（大雨、暴風、波浪、高潮）】小笠原諸島に特別警報を発表しています。土砂災害や低い土地の浸水、河川の増水、暴風、高波、高潮に最大級の警戒をしてください。</content>
+    <link type="application/xml" href="http://127.0.0.1:5500/vpww54/15_13_01_161226_VPWW54.xml" />
+    <content type="text">
+      【東京都気象警報・注意報】【特別警報（大雨、暴風、波浪、高潮）】小笠原諸島に特別警報を発表しています。土砂災害や低い土地の浸水、河川の増水、暴風、高波、高潮に最大級の警戒をしてください。</content>
   </entry>
   <entry>
     <title>気象警報・注意報（Ｈ２７）</title>
-    <id>https://mican3.github.io/jmaxml_test/vpww54/15_12_03_161130_VPWW54.xml</id>
+    <id>http://127.0.0.1:5500/vpww54/15_12_03_161130_VPWW54.xml</id>
     <updated>2016-07-15T07:08:44Z</updated>
     <author>
       <name>横浜地方気象台</name>
     </author>
-    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vpww54/15_12_03_161130_VPWW54.xml"/>
+    <link type="application/xml" href="http://127.0.0.1:5500/vpww54/15_12_03_161130_VPWW54.xml" />
     <content type="text">【神奈川県気象警報・注意報】神奈川県では、１５日夜遅くから高波に警戒してください。</content>
   </entry>
   <entry>
     <title>気象警報・注意報（Ｈ２７）</title>
-    <id>https://mican3.github.io/jmaxml_test/vpww54/15_11_03_150916_VPWW54.xml</id>
+    <id>http://127.0.0.1:5500/vpww54/15_11_03_150916_VPWW54.xml</id>
     <updated>2013-02-07T12:07:06Z</updated>
     <author>
       <name>富山地方気象台</name>
     </author>
-    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vpww54/15_11_03_150916_VPWW54.xml"/>
+    <link type="application/xml" href="http://127.0.0.1:5500/vpww54/15_11_03_150916_VPWW54.xml" />
     <content type="text">【富山県気象警報・注意報】【特別警報（大雪）】東部では、大雪、暴風雪、高波に警戒してください。</content>
   </entry>
   <entry>
     <title>熱中症警戒アラート</title>
-    <id>https://mican3.github.io/jmaxml_test/vpft50/57_03_01_210423_VPFT50.xml</id>
+    <id>http://127.0.0.1:5500/vpft50/57_03_01_210423_VPFT50.xml</id>
     <updated>2020-05-14T20:00:00Z</updated>
     <author>
       <name>環境省 気象庁</name>
     </author>
-    <link type="application/xml" href="https://mican3.github.io/jmaxml_test/vpft50/57_03_01_210423_VPFT50.xml"/>
+    <link type="application/xml" href="http://127.0.0.1:5500/vpft50/57_03_01_210423_VPFT50.xml" />
     <content type="text">【東京都熱中症警戒アラート】</content>
   </entry>
 </feed>

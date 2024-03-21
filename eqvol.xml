@@ -18,24 +18,24 @@
 ]]></rights>
   <entry>
     <title>津波警報・注意報・予報a</title>
-    <id>https://mican3.github.io/jmaxml_test/vtse41/38-39_03_01_210805_VTSE41.xml</id>
+    <id>http://127.0.0.1:5500/vtse41/38-39_03_01_210805_VTSE41.xml</id>
     <updated>2021-08-05T03:56:58Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vtse41/38-39_03_01_210805_VTSE41.xml" />
+      href="http://127.0.0.1:5500/vtse41/38-39_03_01_210805_VTSE41.xml" />
     <content type="text">【津波注意報・津波予報】津波注意報を取り消します。</content>
   </entry>
   <entry>
     <title>津波警報・注意報・予報a</title>
-    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_12_02_191025_VTSE41.xml</id>
+    <id>http://127.0.0.1:5500/vtse41/32-39_12_02_191025_VTSE41.xml</id>
     <updated>2016-08-31T22:13:00Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vtse41/32-39_12_02_191025_VTSE41.xml" />
+      href="http://127.0.0.1:5500/vtse41/32-39_12_02_191025_VTSE41.xml" />
     <content type="text">【大津波警報・津波警報・津波注意報】＊＊＊これは訓練です＊＊＊
       東日本大震災クラスの津波が来襲します。
       大津波警報・津波警報を発表しました。
@@ -43,48 +43,48 @@
   </entry>
   <entry>
     <title>津波警報・注意報・予報a</title>
-    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_13_02_191025_VTSE41.xml</id>
+    <id>http://127.0.0.1:5500/vtse41/32-39_13_02_191025_VTSE41.xml</id>
     <updated>2018-12-04T09:03:00Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vtse41/32-39_13_02_191025_VTSE41.xml" />
+      href="http://127.0.0.1:5500/vtse41/32-39_13_02_191025_VTSE41.xml" />
     <content type="text">【津波注意報・津波予報】＊＊＊これは訓練です＊＊＊
       津波注意報を発表しました。</content>
   </entry>
   <entry>
     <title>津波警報・注意報・予報a</title>
-    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_11_13_120615_VTSE41.xml</id>
+    <id>http://127.0.0.1:5500/vtse41/32-39_11_13_120615_VTSE41.xml</id>
     <updated>2011-03-13T08:58:18Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vtse41/32-39_11_13_120615_VTSE41.xml" />
+      href="http://127.0.0.1:5500/vtse41/32-39_11_13_120615_VTSE41.xml" />
     <content type="text">【津波予報】津波注意報を解除しました。</content>
   </entry>
   <entry>
     <title>津波警報・注意報・予報a</title>
-    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_11_09_120615_VTSE41.xml</id>
+    <id>http://127.0.0.1:5500/vtse41/32-39_11_09_120615_VTSE41.xml</id>
     <updated>2011-03-11T06:00:00Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vtse41/32-39_11_09_120615_VTSE41.xml" />
+      href="http://127.0.0.1:5500/vtse41/32-39_11_09_120615_VTSE41.xml" />
     <content type="text">【大津波警報・津波警報・津波注意報・津波予報】津波到達予想時刻・予想される津波の高さに関する情報を更新しました。
       ただちに避難してください。</content>
   </entry>
   <entry>
     <title>津波警報・注意報・予報a</title>
-    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_12_07_191025_VTSE41.xml</id>
+    <id>http://127.0.0.1:5500/vtse41/32-39_12_07_191025_VTSE41.xml</id>
     <updated>2016-08-31T22:26:00Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vtse41/32-39_12_07_191025_VTSE41.xml" />
+      href="http://127.0.0.1:5500/vtse41/32-39_12_07_191025_VTSE41.xml" />
     <content type="text">【大津波警報・津波警報・津波注意報】＊＊＊これは訓練です＊＊＊
       東日本大震災クラスの津波が来襲します。
       津波到達予想時刻・予想される津波の高さに関する情報を更新しました。
@@ -92,37 +92,37 @@
   </entry>
   <entry>
     <title>津波警報・注意報・予報a</title>
-    <id>https://mican3.github.io/jmaxml_test/vtse41/38-39_02_04_191025_VTSE41.xml</id>
+    <id>http://127.0.0.1:5500/vtse41/38-39_02_04_191025_VTSE41.xml</id>
     <updated>2015-11-13T22:20:01Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vtse41/38-39_02_04_191025_VTSE41.xml" />
+      href="http://127.0.0.1:5500/vtse41/38-39_02_04_191025_VTSE41.xml" />
     <content type="text">【津波予報】津波注意報を解除しました。</content>
   </entry>
   <entry>
     <title>津波警報・注意報・予報a</title>
-    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_11_02_120615_VTSE41.xml</id>
+    <id>http://127.0.0.1:5500/vtse41/32-39_11_02_120615_VTSE41.xml</id>
     <updated>2011-03-11T05:49:59Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vtse41/32-39_11_02_120615_VTSE41.xml" />
+      href="http://127.0.0.1:5500/vtse41/32-39_11_02_120615_VTSE41.xml" />
     <content type="text">【大津波警報・津波警報・津波注意報・津波予報】東日本大震災クラスの津波が来襲します。
       大津波警報・津波警報を発表しました。
       ただちに避難してください。</content>
   </entry>
   <entry>
     <title>津波警報・注意報・予報a</title>
-    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_11_11_120615_VTSE41.xml</id>
+    <id>http://127.0.0.1:5500/vtse41/32-39_11_11_120615_VTSE41.xml</id>
     <updated>2011-03-11T06:12:00Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vtse41/32-39_11_11_120615_VTSE41.xml" />
+      href="http://127.0.0.1:5500/vtse41/32-39_11_11_120615_VTSE41.xml" />
     <content type="text">【大津波警報・津波警報・津波注意報・津波予報】東日本大震災クラスの津波が来襲します。
       沖合で高い津波を観測したため大津波警報・津波警報を切り替えました。
       津波到達予想時刻・予想される津波の高さに関する情報を更新しました。
@@ -130,13 +130,13 @@
   </entry>
   <entry>
     <title>津波警報・注意報・予報a</title>
-    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_11_06_120615_VTSE41.xml</id>
+    <id>http://127.0.0.1:5500/vtse41/32-39_11_06_120615_VTSE41.xml</id>
     <updated>2011-03-11T05:53:00Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vtse41/32-39_11_06_120615_VTSE41.xml" />
+      href="http://127.0.0.1:5500/vtse41/32-39_11_06_120615_VTSE41.xml" />
     <content type="text">【大津波警報・津波警報・津波注意報・津波予報】東日本大震災クラスの津波が来襲します。
       沖合で高い津波を観測したため大津波警報・津波警報を切り替えました。
       津波到達予想時刻・予想される津波の高さに関する情報を更新しました。
@@ -144,303 +144,303 @@
   </entry>
   <entry>
     <title>津波警報・注意報・予報a</title>
-    <id>https://mican3.github.io/jmaxml_test/vtse41/38-39_02_01_191025_VTSE41.xml</id>
+    <id>http://127.0.0.1:5500/vtse41/38-39_02_01_191025_VTSE41.xml</id>
     <updated>2015-11-13T20:56:28Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vtse41/38-39_02_01_191025_VTSE41.xml" />
+      href="http://127.0.0.1:5500/vtse41/38-39_02_01_191025_VTSE41.xml" />
     <content type="text">【津波注意報・津波予報】津波注意報を発表しました。</content>
   </entry>
   <entry>
     <title>津波警報・注意報・予報a</title>
-    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_13_07_191025_VTSE41.xml</id>
+    <id>http://127.0.0.1:5500/vtse41/32-39_13_07_191025_VTSE41.xml</id>
     <updated>2018-12-04T10:30:00Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vtse41/32-39_13_07_191025_VTSE41.xml" />
+      href="http://127.0.0.1:5500/vtse41/32-39_13_07_191025_VTSE41.xml" />
     <content type="text">【津波予報】＊＊＊これは訓練です＊＊＊
       津波注意報を解除しました。</content>
   </entry>
   <entry>
     <title>津波警報・注意報・予報a</title>
-    <id>https://mican3.github.io/jmaxml_test/vtse41/32-39_12_13_191025_VTSE41.xml</id>
+    <id>http://127.0.0.1:5500/vtse41/32-39_12_13_191025_VTSE41.xml</id>
     <updated>2016-09-01T00:55:00Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vtse41/32-39_12_13_191025_VTSE41.xml" />
+      href="http://127.0.0.1:5500/vtse41/32-39_12_13_191025_VTSE41.xml" />
     <content type="text">【津波予報】＊＊＊これは訓練です＊＊＊
       大津波警報・津波警報を解除しました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_07_06_100915_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-35_07_06_100915_VXSE53.xml</id>
     <updated>2009-08-10T20:13:14Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-35_07_06_100915_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-35_07_06_100915_VXSE53.xml" />
     <content type="text">【震源・震度情報】 １１日０５時０７分ころ、地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_08_07_100915_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-35_08_07_100915_VXSE53.xml</id>
     <updated>2010-07-04T22:02:46Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-35_08_07_100915_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-35_08_07_100915_VXSE53.xml" />
     <content type="text">【震源・震度情報】 ５日０６時５６分ころ、地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_08_08_100915_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-35_08_08_100915_VXSE53.xml</id>
     <updated>2010-07-04T22:08:03Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-35_08_08_100915_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-35_08_08_100915_VXSE53.xml" />
     <content type="text">【震源・震度情報】 ５日０６時５６分ころ、地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_07_07_100915_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-35_07_07_100915_VXSE53.xml</id>
     <updated>2009-08-10T20:21:07Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-35_07_07_100915_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-35_07_07_100915_VXSE53.xml" />
     <content type="text">【震源・震度情報】 １１日０５時０７分ころ、地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_06_100831_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-39_05_06_100831_VXSE53.xml</id>
     <updated>2010-02-27T19:41:56Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_06_100831_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-39_05_06_100831_VXSE53.xml" />
     <content type="text">【遠地地震に関する情報】 ２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_01_03_100806_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-35_01_03_100806_VXSE53.xml</id>
     <updated>2009-10-01T04:50:01Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-35_01_03_100806_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-35_01_03_100806_VXSE53.xml" />
     <content type="text">【震源・震度情報】 １日１３時４５分ころ、地震がありました。各地の震度をお知らせします。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_11_05_120615_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-39_11_05_120615_VXSE53.xml</id>
     <updated>2011-03-11T05:54:58Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-39_11_05_120615_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-39_11_05_120615_VXSE53.xml" />
     <content type="text">【震源・震度情報】 １１日１４時４６分ころ、地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_02_100831_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-39_05_02_100831_VXSE53.xml</id>
     <updated>2010-02-27T08:32:19Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_02_100831_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-39_05_02_100831_VXSE53.xml" />
     <content type="text">【遠地地震に関する情報】 ２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_05_100831_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-39_05_05_100831_VXSE53.xml</id>
     <updated>2010-02-27T15:08:07Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_05_100831_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-39_05_05_100831_VXSE53.xml" />
     <content type="text">【遠地地震に関する情報】 ２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_04_04_100831_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-35_04_04_100831_VXSE53.xml</id>
     <updated>2010-01-25T07:19:20Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-35_04_04_100831_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-35_04_04_100831_VXSE53.xml" />
     <content type="text">【震源・震度情報】 ２５日１６時１５分ころ、地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_04_100831_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-39_05_04_100831_VXSE53.xml</id>
     <updated>2010-02-27T12:00:13Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_04_100831_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-39_05_04_100831_VXSE53.xml" />
     <content type="text">【遠地地震に関する情報】 ２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_08_100831_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-39_05_08_100831_VXSE53.xml</id>
     <updated>2010-02-27T22:49:53Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_08_100831_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-39_05_08_100831_VXSE53.xml" />
     <content type="text">【遠地地震に関する情報】 ２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_07_100831_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-39_05_07_100831_VXSE53.xml</id>
     <updated>2010-02-27T20:46:55Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_07_100831_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-39_05_07_100831_VXSE53.xml" />
     <content type="text">【遠地地震に関する情報】 ２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_06_06_100915_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-35_06_06_100915_VXSE53.xml</id>
     <updated>2008-06-14T00:06:34Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-35_06_06_100915_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-35_06_06_100915_VXSE53.xml" />
     <content type="text">【震源・震度情報】 震源・震度情報を取り消します。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_06_04_100915_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-35_06_04_100915_VXSE53.xml</id>
     <updated>2008-06-13T23:53:02Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-35_06_04_100915_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-35_06_04_100915_VXSE53.xml" />
     <content type="text">【震源・震度情報】 １４日０８時４３分ころ、地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_06_03_100915_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-35_06_03_100915_VXSE53.xml</id>
     <updated>2008-06-13T23:47:47Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-35_06_03_100915_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-35_06_03_100915_VXSE53.xml" />
     <content type="text">【震源・震度情報】 １４日０８時４３分ころ、地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_04_06_100831_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-35_04_06_100831_VXSE53.xml</id>
     <updated>2010-01-25T07:25:18Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-35_04_06_100831_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-35_04_06_100831_VXSE53.xml" />
     <content type="text">【震源・震度情報】 ２５日１６時１５分ころ、地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_01_100831_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-39_05_01_100831_VXSE53.xml</id>
     <updated>2010-02-27T07:00:44Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_01_100831_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-39_05_01_100831_VXSE53.xml" />
     <content type="text">【遠地地震に関する情報】 ２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_12_100915_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-39_05_12_100915_VXSE53.xml</id>
     <updated>2010-02-28T00:50:57Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_12_100915_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-39_05_12_100915_VXSE53.xml" />
     <content type="text">【遠地地震に関する情報】 遠地地震に関する情報を取り消します。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_06_05_100915_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-35_06_05_100915_VXSE53.xml</id>
     <updated>2008-06-14T00:01:34Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-35_06_05_100915_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-35_06_05_100915_VXSE53.xml" />
     <content type="text">【震源・震度情報】 １４日０８時４３分ころ、地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-35_01_03_100514_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-35_01_03_100514_VXSE53.xml</id>
     <updated>2009-11-09T11:15:00Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-35_01_03_100514_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-35_01_03_100514_VXSE53.xml" />
     <content type="text">【遠地地震に関する情報】 ９日１９時４５分ころ、海外で規模の大きな地震がありました。</content>
   </entry>
   <entry>
     <title>震源・震度に関する情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vxse53/32-39_05_12_100831_VXSE53.xml</id>
+    <id>http://127.0.0.1:5500/vxse53/32-39_05_12_100831_VXSE53.xml</id>
     <updated>2010-02-28T00:45:57Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vxse53/32-39_05_12_100831_VXSE53.xml" />
+      href="http://127.0.0.1:5500/vxse53/32-39_05_12_100831_VXSE53.xml" />
     <content type="text">【遠地地震に関する情報】 ２７日１５時３４分ころ、海外で規模の大きな地震がありました。</content>
   </entry>
   <entry>
     <title>噴火警報・予報</title>
-    <id>https://mican3.github.io/jmaxml_test/vfvo50/45_01_01_200522_VFVO50.xml</id>
+    <id>http://127.0.0.1:5500/vfvo50/45_01_01_200522_VFVO50.xml</id>
     <updated>2020-05-22T04:03:25Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vfvo50/45_01_01_200522_VFVO50.xml" />
+      href="http://127.0.0.1:5500/vfvo50/45_01_01_200522_VFVO50.xml" />
     <content type="text">【火山名 浅間山 噴火警報（火口周辺）】 ＜浅間山に火口周辺警報（噴火警戒レベル３、入山規制）を発表＞
       山頂火口から概ね４ｋｍの範囲で大きな噴石や火砕流に警戒してください 。
       ＜噴火警戒レベルを１（活火山であることに留意）から３（入山規制）に引上げ＞</content>
   </entry>
   <entry>
     <title>噴火警報・予報</title>
-    <id>https://mican3.github.io/jmaxml_test/vfvo50/45_03_01_200731_VFVO50.xml</id>
+    <id>http://127.0.0.1:5500/vfvo50/45_03_01_200731_VFVO50.xml</id>
     <updated>2020-07-31T02:03:40Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vfvo50/45_03_01_200731_VFVO50.xml" />
+      href="http://127.0.0.1:5500/vfvo50/45_03_01_200731_VFVO50.xml" />
     <content type="text">【火山名 草津白根山（白根山（湯釜付近）） 噴火予報：警報解除】
       ＜草津白根山（白根山（湯釜付近））に噴火予報（噴火警戒レベル１、活火山であることに留意）：警報解除を発表＞
       湯釜火口から概ね１ｋｍの範囲に影響を及ぼす噴火の可能性は低くなっています。
@@ -448,26 +448,26 @@
   </entry>
   <entry>
     <title>噴火警報・予報</title>
-    <id>https://mican3.github.io/jmaxml_test/vfvo50/45_02_01_200522_VFVO50.xml</id>
+    <id>http://127.0.0.1:5500/vfvo50/45_02_01_200522_VFVO50.xml</id>
     <updated>2020-05-22T04:26:36Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vfvo50/45_02_01_200522_VFVO50.xml" />
+      href="http://127.0.0.1:5500/vfvo50/45_02_01_200522_VFVO50.xml" />
     <content type="text">【火山名 箱根山 噴火警報（居住地域）】 ＜箱根山に噴火警報（噴火警戒レベル５、避難）を発表＞
       居住地域に重大な被害を及ぼす噴火が発生したことから、危険な居住地域では、市町村の指示に従い、避難してください。
       ＜噴火警戒レベルを１（活火山であることに留意）から５（避難）に引上げ＞</content>
   </entry>
   <entry>
     <title>火山の状況に関する解説情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vfvo51/44_01_01_151008_VFVO51.xml</id>
+    <id>http://127.0.0.1:5500/vfvo51/44_01_01_151008_VFVO51.xml</id>
     <updated>2015-10-08T07:00:13Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vfvo51/44_01_01_151008_VFVO51.xml" />
+      href="http://127.0.0.1:5500/vfvo51/44_01_01_151008_VFVO51.xml" />
     <content type="text">【火山名 全国の活火山 火山の状況に関する解説情報】 本日、全国の活火山の活動状況や警戒事項を取りまとめた月間火山概況（
       平成２７年９月）を発表しました。その概要は以下のとおりです。詳しくは
       月間火山概況及び火山活動解説資料を参照ください。
@@ -475,37 +475,37 @@
   </entry>
   <entry>
     <title>火山の状況に関する解説情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vfvo51/44_02_01_200522_VFVO51.xml</id>
+    <id>http://127.0.0.1:5500/vfvo51/44_02_01_200522_VFVO51.xml</id>
     <updated>2020-05-22T04:56:45Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vfvo51/44_02_01_200522_VFVO51.xml" />
+      href="http://127.0.0.1:5500/vfvo51/44_02_01_200522_VFVO51.xml" />
     <content type="text">【火山名 草津白根山（白根山（湯釜付近）） 火山の状況に関する解説情報】 ＜火口周辺警報（噴火警戒レベル２、火口周辺規制）が継続＞
       白根山（湯釜付近）では火山活動が高まっていると考えられます。引き続き湯釜火口から概ね１ｋｍの範囲では、噴火に伴う弾道を描いて飛散する大きな噴石に警戒してください。</content>
   </entry>
   <entry>
     <title>火山の状況に関する解説情報</title>
-    <id>https://mican3.github.io/jmaxml_test/vfvo51/44_03_01_200731_VFVO51.xml</id>
+    <id>http://127.0.0.1:5500/vfvo51/44_03_01_200731_VFVO51.xml</id>
     <updated>2020-07-31T02:06:21Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vfvo51/44_03_01_200731_VFVO51.xml" />
+      href="http://127.0.0.1:5500/vfvo51/44_03_01_200731_VFVO51.xml" />
     <content type="text">【火山名 草津白根山（白根山（湯釜付近）） 火山の状況に関する解説情報（臨時）】 ＜火口周辺警報（噴火警戒レベル２、火口周辺規制）が継続＞
       振幅の大きな火山性微動が増加するなど火山活動が次第に高まってきており、噴火警戒レベル引上げの可能性があります。今後の火山活動に注意してください。</content>
   </entry>
   <entry>
     <title>火山現象に関する海上警報・海上予報</title>
-    <id>https://mican3.github.io/jmaxml_test/vfsvii/46_01_01_170103_VFSVii.xml</id>
+    <id>http://127.0.0.1:5500/vfsvii/46_01_01_170103_VFSVii.xml</id>
     <updated>2017-01-03T03:00:22Z</updated>
     <author>
       <name>気象庁</name>
     </author>
     <link type="application/xml"
-      href="https://mican3.github.io/jmaxml_test/vfsvii/46_01_01_170103_VFSVii.xml" />
+      href="http://127.0.0.1:5500/vfsvii/46_01_01_170103_VFSVii.xml" />
     <content type="text">【火山名 桜島 噴火警報】 火山名 桜島 噴火警報</content>
   </entry>
 </feed>

@@ -5,8 +5,8 @@
 また、気象庁が提供しているものではありません。  
 
 以下がテスト用フィードのURLです。
-- 高頻度（随時）        [https://mican3.github.io/jmaxml_test/extra.xml](https://mican3.github.io/jmaxml_test/extra.xml)
-- 高頻度（地震火山）    [https://mican3.github.io/jmaxml_test/eqvol.xml](https://mican3.github.io/jmaxml_test/eqvol.xml)
+- 高頻度（随時）        [http://127.0.0.1:5500/extra.xml](http://127.0.0.1:5500/extra.xml)
+- 高頻度（地震火山）    [http://127.0.0.1:5500/eqvol.xml](http://127.0.0.1:5500/eqvol.xml)
 
 このテスト用のフィードに掲載されている電文は、
 [気象庁防災情報XMLフォーマット　技術資料](https://xml.kishou.go.jp/tec_material.html)　に掲載されている「サンプルデータ（令和6年3月15日一部更新）」を使用しています。
